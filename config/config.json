@@ -1,16 +1,16 @@
 {
-  "CONTRACT_ADDRESS": "0xC83FaD1BE05261dE4e4E0B7Da7DF2a11b039c6FE",
-  "SCAN_LINK": "https://arbiscan.io/address",
+  "CONTRACT_ADDRESS": "0xbd78e46012F0e0E7E697250fda39001733232209",
+  "SCAN_LINK": "https://bscscan.com/address/0xbd78e46012F0e0E7E697250fda39001733232209",
   "NETWORK": {
-    "NAME": "Arbitrum",
-    "SYMBOL": "ETH",
-    "ID": 42161
+    "NAME": "Binance Smart Chain",
+    "SYMBOL": "BNB",
+    "ID": 56
   },
-  "NFT_NAME": "Wizard Alantar",
-  "SYMBOL": "WIZARDALANTAR",
-  "MAX_SUPPLY": 150,
-  "WEI_COST": 100000000000000000,
-  "DISPLAY_COST": 0.1,
+  "NFT_NAME": "Snoo Coin",
+  "SYMBOL": "SNOO",
+  "MAX_SUPPLY": 125,
+  "WEI_COST": 1000000000000000000,
+  "DISPLAY_COST": 1,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "",
   "MARKETPLACE_LINK": "",
